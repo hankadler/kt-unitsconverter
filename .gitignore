@@ -1,0 +1,26 @@
+# Default ignored files
+/*
+
+# Included files
+!docs/
+!docs/interactive.gif
+!src/
+src/*
+!src/com/
+src/com/*
+!src/com/hankadler/
+src/com/hankadler/*
+!src/com/hankadler/apps/
+src/com/hankadler/apps/*
+!src/com/hankadler/apps/*.kt
+!out/
+out/*
+!out/artifacts/
+out/artifacts/*
+!out/artifacts/jar/
+out/artifacts/jar/*
+!out/artifacts/jar/*.jar
+!.gitignore
+!CHANGELOG.md
+!LICENSE
+!README.md
