@@ -7,14 +7,14 @@ Converts from a measured unit into another.
 - [License](#license)
 
 ## Usage
-java -jar units-converter-0.1.0.jar
+java -jar units-converter-0.2.0.jar
 
 ## Examples
 ```bash
-$ java -jar units-converter-0.1.0.jar
+$ java -jar units-converter-0.2.0.jar
 ```
 
-![](docs/gui.gif)
+![](docs/gui-0.2.0.gif)
 
 ## License
 [MIT](LICENSE) © Hank Adler

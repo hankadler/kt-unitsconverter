@@ -19,7 +19,7 @@ out/*
 out/artifacts/*
 !out/artifacts/jar/
 out/artifacts/jar/*
-!out/artifacts/jar/*.jar
+!out/artifacts/jar/units-converter-0.2.0.jar
 !.gitignore
 !CHANGELOG.md
 !LICENSE
