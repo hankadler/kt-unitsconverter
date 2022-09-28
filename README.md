@@ -1,4 +1,4 @@
-# kotlin-apps-unitsconverter
+# kt-unitsconverter
 Converts from a measured unit into another.
 
 ## Table of Contents
